@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireSignalRHub", "AspireSignalRHub\AspireSignalRHub.csproj", "{876B5BB5-B95A-42FE-9306-5CD29A934578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{E3D68199-59D3-4E43-9044-60DFD56D524D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Debug|x64.Build.0 = Debug|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Debug|x86.Build.0 = Debug|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Release|x64.ActiveCfg = Release|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Release|x64.Build.0 = Release|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Release|x86.ActiveCfg = Release|Any CPU
+		{876B5BB5-B95A-42FE-9306-5CD29A934578}.Release|x86.Build.0 = Release|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Debug|x64.Build.0 = Debug|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Debug|x86.Build.0 = Debug|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Release|x64.ActiveCfg = Release|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Release|x64.Build.0 = Release|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Release|x86.ActiveCfg = Release|Any CPU
+		{F2E05E4E-5424-4A11-AB89-BC83C11A1F9E}.Release|x86.Build.0 = Release|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Debug|x64.Build.0 = Debug|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Debug|x86.Build.0 = Debug|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Release|x64.ActiveCfg = Release|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Release|x64.Build.0 = Release|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Release|x86.ActiveCfg = Release|Any CPU
+		{E3D68199-59D3-4E43-9044-60DFD56D524D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88081BA9-18BD-48BC-A774-194FB9B4979C}
+	EndGlobalSection
+EndGlobal

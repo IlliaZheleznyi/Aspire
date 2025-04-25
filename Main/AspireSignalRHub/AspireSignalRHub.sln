@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireSignalRHub", "AspireSignalRHub.csproj", "{933A113F-35CF-7D78-4838-EAA6323A4CD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933A113F-35CF-7D78-4838-EAA6323A4CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933A113F-35CF-7D78-4838-EAA6323A4CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933A113F-35CF-7D78-4838-EAA6323A4CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933A113F-35CF-7D78-4838-EAA6323A4CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5D60C2E-5966-4DFB-8FA8-32163A52DCAE}
+	EndGlobalSection
+EndGlobal
